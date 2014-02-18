@@ -1,0 +1,12 @@
+*.py
+Libraries/
+Resources/
+lua_debugger/
+Simple-Tiled-Implementation/
+main~.lua
+assets/
+lib/
+graphics/
+sounds/
+pl/
+bg
